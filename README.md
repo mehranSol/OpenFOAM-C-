@@ -1,4 +1,4 @@
-In this solver, the energy equation has been added to the icoFoam solver in OpenFOAM 6. It can be used to simulate the incompressible, laminar flow of Newtonian fluids regarding heat transfer occurred.
+In this solver, the energy equation has been added to the icoFoam solver in OpenFOAM 6. It can be used to simulate the incompressible, laminar flow of Newtonian fluids regarding heat transfer occurred. The programming language used is C++.
 
 You can easily compile this solver in your user directory by opening a new terminal in the directory and typing the below commands :
 ./wclean
